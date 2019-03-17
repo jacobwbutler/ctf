@@ -1,0 +1,3 @@
+PHP
+- https://example.com/username[]=foo
+- 0e215962017 (generates md5 hash with '0e')
